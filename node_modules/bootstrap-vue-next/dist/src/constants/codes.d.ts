@@ -1,0 +1,14 @@
+export declare const CODE_BACKSPACE = "Backspace";
+export declare const CODE_BREAK = 19;
+export declare const CODE_DELETE = 46;
+export declare const CODE_DOWN = "ArrowDown";
+export declare const CODE_END = "End";
+export declare const CODE_ENTER = 13;
+export declare const CODE_ESC = 27;
+export declare const CODE_HOME = "Home";
+export declare const CODE_LEFT = 37;
+export declare const CODE_PAGEDOWN = "PageDown";
+export declare const CODE_PAGEUP = "PageUp";
+export declare const CODE_RIGHT = 39;
+export declare const CODE_SPACE = 32;
+export declare const CODE_UP = "ArrowUp";

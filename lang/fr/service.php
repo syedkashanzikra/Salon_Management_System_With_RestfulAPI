@@ -1,0 +1,41 @@
+<?php
+
+return [
+
+  'title' => 'Services',
+  'singular_title' => 'Service',
+  'lbl_name' => 'Nom',
+  'lbl_description' => 'Description Courte',
+  'lbl_duration_min' => 'Durée du Service (Mins)',
+  'lbl_default_price' => 'Prix par Défaut',
+  'lbl_category' => 'Catégorie',
+  'lbl_sub_category' => 'Sous Catégorie',
+  'lbl_feature_image' => 'Image en Vedette',
+  'lbl_status' => 'Statut',
+  'lbl_category_id' => 'Catégorie',
+  'lbl_duration' => 'Durée',
+  'lbl_branches' => 'Branches',
+  'lbl_staffs' => 'Employés',
+  'lbl_image' => 'Image',
+  'service_gal_retrived' => 'Galerie de Service récupérée avec succès.',
+  'service_list' => 'Liste des Services',
+  'service_create' => 'Service créé avec succès',
+  'service_detail' => 'Détail du Service',
+  'service_update' => 'Service mis à jour avec succès',
+  'service_delete' => 'Service supprimé avec succès',
+  'stff_service' => 'LISTE_DU_PERSONNEL_ASSIGNÉ',
+  'stff_service_update' => 'Personnel du Service mis à jour avec succès',
+  'branch_service' => 'LISTE_DES_BRANCHES_ASSIGNÉES',
+  'branch_service_update' => 'Branches du Service mises à jour avec succès',
+  'service_notfound' => 'Service introuvable.',
+  'servie_gallery' => 'Toutes les galeries récupérées avec succès.',
+  'service_gallery_update' => 'Mise à jour de la Galerie de Service',
+  'service_search' => 'Aucune requête de recherche fournie',
+  'service_data' => 'Données restaurées avec succès!',
+  'lbl_category' => 'Catégorie',
+  'lbl_sub_category' => 'Sous Catégorie',
+  'lbl_advanced_filter' => 'Filtre Avancé',
+  'lbl_description' => 'Description',
+  'lbl_action' => 'Action'
+
+];
